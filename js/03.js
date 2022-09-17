@@ -4,11 +4,11 @@
 
 const producto = 'Audifonos Gamer'; // Iniciar variable y asignarle valor.
 
-//const disponible; no podemos Iniciar la variable pero sin valor.
+const disponible = true; // no podemos Iniciar la variable pero sin valor.
 
 //producto = true; // Reasignar el valor de la variable
 
-disponible = true; // Asignar el valor de la variable
+//disponible = true; // no puedes reAsignar el valor de la variable
 
 const producto1 = 'Computadora',
     disponible1 = true,
