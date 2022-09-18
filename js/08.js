@@ -7,5 +7,5 @@ console.log(email);
 // Concatenacion
 console.log(nombre + " " + email);
 
-
+console.log(`Nombre Cliente: ${nombre} Email: ${email}`);
 // Template Strings
